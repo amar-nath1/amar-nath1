@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amar-nath1
-- 👀 I’m interested in ... Full Stack Web Development, Data Science, Machine Learning, Python, Data analytics, Data Engineering
+- 👋 Hi, I’m Amar Nath (@amar-nath1)
+- 👀 I’m interested in ... Full Stack Web Development and also in Machine Learning, Python, Data Engineering
 - 🌱 I’m currently learning - Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 reach me -coderamar.com
 
 <!---
 amar-nath1/amar-nath1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
