@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amar Nath (@amar-nath1)
-- 👀 I’m interested in ... Full Stack Web Development and also in Machine Learning, Python, Data Engineering
+- 👀 I’m interested in ... Full Stack Web Development
 - 🌱 I’m currently learning - Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me -coderamar.com
